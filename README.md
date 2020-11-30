@@ -21,7 +21,7 @@ API server path. If it isn't set, default server is https://api.spotify.com
 
 Number of entries that should be shown on a page. If it isn't set, default value is 5.
 
-## info
+## Info
 
 Project from JetBrains Academy, HyperSkill platform
 
